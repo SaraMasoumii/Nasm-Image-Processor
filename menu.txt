@@ -1,0 +1,12 @@
+Hey dear user, What can I do for you?
+
+1. Open my image.
+2. Reshape the image.
+3. Resize the image.
+4. Make the image black and white.
+5. Add convolution filters.
+6. Use pooling for dimension reduction.
+7. Add noise.
+8. Show the final image.
+9. Show the final black and white image.
+10. End.
